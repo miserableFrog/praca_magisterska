@@ -1,3 +1,1 @@
-# praca_magisterska
-Plik **praca_mag** to opis wykonywanych obliczeń na potrzeby pracy magisterskiej. <br><br>
-Ponadto znajdują się tu skrypty odpowiedzialne za poszczególne funkcje.
+Plik **praca_mag** to notatnik w programie Jupyter Notebook, w którym znajduje się kod w języku R użyty do wykonania obliczenia na potrzeby pracy wraz z krótkim objaśnieniem. Ze względu na losowość wyników i potrzebę wielokrotnego powtarzania skryptów dla różnych zbiorów danych jest to kod poglądowy wyjaśniający użycie danych metod. **Nie jest** to docelowy kod, który pozwolił na uzyskanie wyników przedstawionych w pracy.<br><br>
